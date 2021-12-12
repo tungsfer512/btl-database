@@ -13,6 +13,9 @@ import javax.swing.JOptionPane;
  */
 public class DangKiAdmin extends javax.swing.JFrame {
 
+    
+    
+    
     /**
      * Creates new form NhapAdmin
      */
